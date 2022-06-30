@@ -1,7 +1,7 @@
 	
-	#Strogonoff de Carne
+	# Strogonoff de Carne
 
-	###INGREDIENTES
+	### INGREDIENTES
 	 - 400 g de carne (filé mignon, chã de dentro ou alcatra)
 	 - Pimenta
 	 - Cominho
@@ -14,8 +14,8 @@
 	 - Óleo para fritar
 
 
-	###MODO DE PREPARO
-	####CARNE:
+	### MODO DE PREPARO
+	#### CARNE:
 	1. Corte a carne selecionada em tirinhas, tempere com a pimenta, o cominho e o sal (coloco 1 ou 2 pitadas de cada, no máximo).
 
 	2. Deixe a carne descansar por 20 minutos para apurar o gosto.
@@ -26,7 +26,7 @@
 
 	5. Não deixe fritar muito para que a carne não fique dura.
 
-	####MOLHO:
+	#### MOLHO:
 	1. Troque o óleo da panela e refogue a cebola ralada.
 
 	2. Depois de dourada, jogue todas as tirinhas de carne dentro da panela e mexa.
